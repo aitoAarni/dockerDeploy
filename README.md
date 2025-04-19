@@ -30,4 +30,4 @@ Run `rails s -e production` to start the project in production mode
 
 ### The application by default runs in port 3000
 
-[deoplyed app](https://rails-project-mdpf.onrender.com) 
+[deployed app](https://rails-project-mdpf.onrender.com) 
