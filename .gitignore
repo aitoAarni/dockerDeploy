@@ -43,4 +43,3 @@ yarn-debug.log*
 .yarn-integrity
 
 # To avoid sending exercise solutions
-Dockerfile
